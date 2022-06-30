@@ -1,0 +1,12 @@
+{"skd": {
+    "diet plan": [{
+        "diet": "\tBreakfast: protein oatmeal made with oats, vegan protein powder, soy milk, banana, and nut butter\n\tLunch: tofu stir-fry made with extra firm tofu, vegan pasta, beans, red lentils, celery, onion, and spinach\n\tDinner: teriyaki tempeh with broccoli and quinoa\n\tSnack: strawberry-banana protein shake",
+        "title": "Vegetarian"
+    }],
+    "gender": "M",
+    "tdee": 0,
+    "name": "skd",
+    "weight": 21,
+    "age": 21,
+    "height": 12
+}}
