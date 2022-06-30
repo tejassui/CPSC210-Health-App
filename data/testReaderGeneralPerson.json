@@ -1,0 +1,14 @@
+{
+  "testOne": {
+    "gender": "M",
+    "weight": 65,
+    "age": 18,
+    "height": 188
+  },
+  "testTwo": {
+    "gender": "M",
+    "weight": 150,
+    "age": 19,
+    "height": 190
+  }
+}
